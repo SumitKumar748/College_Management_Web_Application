@@ -1,5 +1,5 @@
 College_Management_Web_Application 
-Key features: : 
+Key features:
 Home Page: Overview of college and upcoming events for community. 
 Registration Page: New students can register.
 Student Login Page: Student can access to credentials and academic information. 
